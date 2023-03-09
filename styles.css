@@ -1,0 +1,94 @@
+body{
+  background-color: #05111e;
+}
+div{
+  background-color: #081d33
+}
+
+
+.navbar {
+    width: 100%;
+    overflow: auto;
+    background-color: #081d33;
+    margin-bottom: 15px;
+    
+  }
+
+  .navlogo {
+    width: 5%;
+    float: left;
+    display: block;
+    padding: 15px;
+    margin:0;
+  }
+
+  .search {
+    float:middle;
+    width: 35%;
+    background-color: #05111e;
+    margin-left: 25%;
+    margin-top: 20px;
+    height: 25px;
+    border: none;
+  }
+  
+  .navlinks {
+    top: 0;
+    width: 5%;
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding-top: 30px;
+    padding-right: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  .godarea {
+    padding: 15px;
+    margin-top: 15px;
+    width:1100px;
+    margin: auto;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 15px;
+    color:white
+  }
+
+  #godinfo {
+    padding-left: 15px;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+  }
+
+  #godname{
+    font-size: 42px;
+    color: white;
+    font-weight: bold;
+    padding-right: 15px;
+  }
+
+  #godtitle{
+    font-style: italic;
+    color: #c4c4c4;
+    font-size: 32px;
+
+  }
+
+  #godabilities {
+    margin-top: 15px;
+  }
+
+  #role{
+    height: 32px;
+    padding-left: 10px;
+  }
+
+.ability {
+  padding-right: 10px;
+}
+
+
+  
+  
